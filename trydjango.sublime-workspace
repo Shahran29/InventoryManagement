@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"queue",
+				"queue_stack"
+			],
+			[
+				"que",
+				"queue_stack"
+			],
+			[
+				"push",
+				"push_stack"
+			],
+			[
+				"Pu",
+				"push_stack"
+			],
+			[
+				"min",
+				"min_stack"
+			],
+			[
+				"M",
+				"min_stack"
+			],
+			[
+				"curr",
+				"curr_left_head"
+			],
+			[
+				"ri",
+				"right_head"
+			],
+			[
+				"cur",
+				"curr_right_node"
+			],
+			[
+				"r",
+				"rightEmpty"
+			],
+			[
+				"Remove",
+				"RemoveDups"
+			],
+			[
+				"node",
+				"node_1"
+			],
+			[
+				"zero",
+				"zeroes_at"
+			],
+			[
+				"ze",
+				"zeroes_at"
+			],
+			[
+				"c",
+				"column_number"
+			],
+			[
+				"row",
+				"row_number"
+			],
+			[
+				"column",
+				"column_len"
+			],
+			[
+				"sr",
+				"stringCompression"
+			],
+			[
+				"Palin",
+				"PalindromeChecker"
+			],
+			[
+				"U",
+				"UniqueCharacters"
+			],
+			[
+				"link",
+				"linkAtoB"
+			],
+			[
+				"divide",
+				"divide_button"
+			],
+			[
+				"mu",
+				"multiply"
+			],
+			[
+				"multipl",
+				"multiply_button"
+			],
+			[
+				"total_lab",
+				"total_label_text"
+			],
+			[
+				"subtract",
+				"subtract_button"
+			],
+			[
+				"label_",
+				"label_text"
+			],
+			[
+				"L",
+				"LABEL_TEXT"
+			],
+			[
+				"la",
+				"label_index"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/trydjango/manage.py",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/shahr/Dev/cfehome",
+		"/C/Users/shahr/Dev/cfehome/src",
+		"/C/Users/shahr/Dev/cfehome/src/trydjango",
+		"/C/Users/shahr/Dev/cfehome/src/trydjango/trydjango"
+	],
+	"file_history":
+	[
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Stacks & Queues/GuessingGame.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Linked Lists/2.5SumLists.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Linked Lists/2.4Partition.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Linked Lists/2.3DeleteMiddleNode.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Linked Lists/2.2KthToLast.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Linked Lists/2.1RemoveDups.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Linked Lists/2.7Intersection.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.9StringRotation.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.8ZeroMatrix.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.7RotateMatrix.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.6StringCompression.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.5OneAway.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.4PalindromePermutation.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.3URLify.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.2CheckPermutation.py",
+		"/C/Users/shahr/OneDrive/Desktop/CTCI/Strings + Arrays/1.1IsUnique.py",
+		"/C/Users/shahr/Downloads/ps1/visualizer.html",
+		"/C/Users/shahr/OneDrive/Desktop/Coding Projects/rockpaperscissors.py",
+		"/C/Users/shahr/Dev/trydjango/src/templates/base.html",
+		"/C/Users/shahr/Dev/trydjango/Lib/site-packages/django/db/backends/sqlite3/schema.py",
+		"/C/Users/shahr/Dev/trydjango/src/products/models.py",
+		"/C/Users/shahr/Dev/trydjango/src/products/admin.py",
+		"/C/Users/shahr/Dev/trydjango/src/db.sqlite3",
+		"/C/Users/shahr/my_first_project/config/routes.yaml",
+		"/C/Users/shahr/Downloads/demo/demo/vendor/symfony/symfony/src/Symfony/Component/Dotenv/Dotenv.php",
+		"/C/Users/shahr/my_first_project/.git/COMMIT_EDITMSG",
+		"/C/Users/shahr/Downloads/demo/demo/src/AppBundle/Controller/DefaultController.php",
+		"/C/Users/shahr/Downloads/demo/demo/src/AppBundle/Resources/config/doctrine/Post.orm.php",
+		"/C/Users/shahr/Downloads/demo/demo/src/AppBundle/AppBundle.php",
+		"/C/Users/shahr/Downloads/demo/demo/src/AppBundle/Repository/PostRepository.php",
+		"/C/Users/shahr/AppData/Local/Temp/Temp1_demo-master.zip/demo-master/src/Entity/Tag.php",
+		"/C/Users/shahr/AppData/Local/Temp/Temp1_demo-master.zip/demo-master/src/Entity/Post.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/trydjango/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

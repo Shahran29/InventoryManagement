@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %} 
+
+<h1>Welcome!</h1>
+
+<p>This is the inventory management system for our company. Here verified employees can login to view our inventory. From there you can update, delete and add any new inventory to our system.</p>
+{%if not user.is_authenticated %}
+<a class="btn btn-success" href="login" >Log In</a>
+{% else %}
+<a class="btn btn-secondary" href="logout" >Log Out</a>
+
+{% endif %}
+{% endblock %}

@@ -1,0 +1,13 @@
+<!-- Page for Viewing Product individually, provides buttons to actions such as edit and delete on the given item -->
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Item Name: {{object.name}} </h1>
+<p> Quantity: {{object.quantity}} </p>
+<p> Price: {{object.price}} </p>
+<p> Status: {{object.status}} </p>
+<a class="btn btn-success" href="update" >Edit</a>
+<a class="btn btn-danger" href="delete" >Delete</a>
+<a class="btn btn-primary" href="/products/" >Back To Inventory</a>
+
+{% endblock %}

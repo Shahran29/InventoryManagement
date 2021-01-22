@@ -1,0 +1,16 @@
+<!-- File for registration form page -->
+{% extends 'base.html' %}
+
+{% block content %}
+<div class=" mx-auto card w-50">
+<div class="card-header">
+ <h2>Login: </h2></div>
+<form method = "POST" class="form-group">
+	{%csrf_token %}
+	{{form.as_p}}
+	<div class = "row  mx-auto">
+	<button type="submit" class="btn btn-success btn-block">Sign In</button>
+</div>
+</form>
+</div>
+{% endblock %}
