@@ -1,4 +1,4 @@
-# InventoryManagement
+# Inventory Management
 An application for a company system, where employees can login and view inventory. They can also update, delete, and create new items within the inventory after logging in.
 
 ## Getting Started
